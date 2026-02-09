@@ -40,7 +40,6 @@ When you run it, the terminal looks something like this:
   Super cool! 🎉
 ```
 
-(You can add your own screenshots later by uploading images to the repo and linking them here.)
 
 ## 🚀 Installation
 
